@@ -1,0 +1,5 @@
+name: NameTagDevice
+main: SoartexHD\NameTag
+version: 1.0.0
+api: [3.0.0]
+author: SoartexHD
